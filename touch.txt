@@ -1,0 +1,1 @@
+Pull Requests facilitate code reviews. Other team members can review the proposed changes, comment on specific lines, suggest improvements, and ask questions. This collaborative process ensures that the code is of high quality before it's merged into the main codebase.
