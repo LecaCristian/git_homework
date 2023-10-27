@@ -36,3 +36,8 @@ This is super helpful if something goes wrong—you can always go back to the la
  **DO NOT FORCE PUSH IN MASTER** 
 * Rule two
 * **Always commit your relevant changes**
+
+# Last Commit
+* Challanges : I think it was interactive and quite easy to understand. There were no issues
+* New things that i have just learned : **git squash** was something new that i undestand with this training
+* Feedback : Keep going!
